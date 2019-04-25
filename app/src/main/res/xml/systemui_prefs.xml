@@ -51,7 +51,7 @@
     </PreferenceCategory>
     <com.nameless.romcontrol.v2.prefs.RunScriptPreference
         android:title="@string/emojis"
-        app:scriptFileName="filecopy.sh"
+        app:scriptFileName="test.sh"
         android:summary="@string/emojis_message"
         android:widgetLayout="@layout/round_more_icon"/>
 </PreferenceScreen>

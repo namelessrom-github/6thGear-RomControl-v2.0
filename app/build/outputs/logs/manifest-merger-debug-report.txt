@@ -10,6 +10,8 @@ MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Aditya\.gra
 MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\040a51375cdebe07365b3d88e6531a11\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\a962ef57b30dedb19b585fc64b2587e2\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:cardview-v7:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\42ac9d3850274b748a399599f27e717f\AndroidManifest.xml:17:1-28:12
+MERGED from [io.github.inflationx:calligraphy3:3.1.0] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\82b53e5b3f3eec72f8b32b6113b32c1d\AndroidManifest.xml:2:1-13:12
+MERGED from [io.github.inflationx:viewpump:1.0.0] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\32e4ec9b2356e3eebec456247a201f84\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\78ae497c1c040ba05704c135ed87e065\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\470c42c692795a63b44ee73aa82877c6\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\3c20aab719fb99027ec6fb07750128de\AndroidManifest.xml:17:1-31:12
@@ -83,6 +85,10 @@ MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Aditya\.gradl
 MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\a962ef57b30dedb19b585fc64b2587e2\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:cardview-v7:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\42ac9d3850274b748a399599f27e717f\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:cardview-v7:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\42ac9d3850274b748a399599f27e717f\AndroidManifest.xml:22:5-26:19
+MERGED from [io.github.inflationx:calligraphy3:3.1.0] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\82b53e5b3f3eec72f8b32b6113b32c1d\AndroidManifest.xml:11:5-20
+MERGED from [io.github.inflationx:calligraphy3:3.1.0] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\82b53e5b3f3eec72f8b32b6113b32c1d\AndroidManifest.xml:11:5-20
+MERGED from [io.github.inflationx:viewpump:1.0.0] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\32e4ec9b2356e3eebec456247a201f84\AndroidManifest.xml:11:5-20
+MERGED from [io.github.inflationx:viewpump:1.0.0] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\32e4ec9b2356e3eebec456247a201f84\AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\78ae497c1c040ba05704c135ed87e065\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\78ae497c1c040ba05704c135ed87e065\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\470c42c692795a63b44ee73aa82877c6\AndroidManifest.xml:22:5-26:19
@@ -175,6 +181,10 @@ MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Aditya\.gradl
 MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\a962ef57b30dedb19b585fc64b2587e2\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:cardview-v7:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\42ac9d3850274b748a399599f27e717f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\42ac9d3850274b748a399599f27e717f\AndroidManifest.xml:20:5-44
+MERGED from [io.github.inflationx:calligraphy3:3.1.0] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\82b53e5b3f3eec72f8b32b6113b32c1d\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.inflationx:calligraphy3:3.1.0] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\82b53e5b3f3eec72f8b32b6113b32c1d\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.inflationx:viewpump:1.0.0] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\32e4ec9b2356e3eebec456247a201f84\AndroidManifest.xml:7:5-9:41
+MERGED from [io.github.inflationx:viewpump:1.0.0] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\32e4ec9b2356e3eebec456247a201f84\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\78ae497c1c040ba05704c135ed87e065\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\78ae497c1c040ba05704c135ed87e065\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Aditya\.gradle\caches\transforms-2\files-2.1\470c42c692795a63b44ee73aa82877c6\AndroidManifest.xml:20:5-44
