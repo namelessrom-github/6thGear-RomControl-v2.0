@@ -1,7 +1,7 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package com.wubydax.romcontrol.v2;
+package com.nameless.romcontrol.v2;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");

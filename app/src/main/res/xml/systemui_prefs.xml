@@ -54,10 +54,4 @@
         app:scriptFileName="filecopy.sh"
         android:summary="@string/emojis_message"
         android:widgetLayout="@layout/round_more_icon"/>
-
-    <com.nameless.romcontrol.v2.prefs.RunScriptPreference
-        android:title="dfdfemojis"
-        app:scriptFileName="emoji.sh"
-        android:summary="@string/emojis_message"
-        android:widgetLayout="@layout/round_more_icon"/>
 </PreferenceScreen>

@@ -22,7 +22,7 @@ INJECTED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src
 INJECTED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:2:1-48:12
 INJECTED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:2:1-48:12
 	package
-		ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:4:11-46
+		ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:4:11-47
 		INJECTED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -127,7 +127,7 @@ ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\ma
 		ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:26:71-91
 	android:name
 		ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:26:20-70
-activity#com.wubydax.romcontrol.v2.MainActivity
+activity#com.nameless.romcontrol.v2.MainActivity
 ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:27:9-36:20
 	android:label
 		ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:29:13-45
@@ -147,13 +147,13 @@ category#android.intent.category.MULTIWINDOW_LAUNCHER
 ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:34:17-89
 	android:name
 		ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:34:27-86
-activity#com.wubydax.romcontrol.v2.AboutActivity
+activity#com.nameless.romcontrol.v2.AboutActivity
 ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:37:9-40:20
 	android:parentActivityName
 		ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:39:13-55
 	android:name
 		ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:38:13-42
-service#com.wubydax.romcontrol.v2.utils.BackupRestoreIntentService
+service#com.nameless.romcontrol.v2.utils.BackupRestoreIntentService
 ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:42:9-45:19
 	android:exported
 		ADDED from D:\Development\AndroidStudio\New Projects\RomControl_Note4\app\src\main\AndroidManifest.xml:44:13-37
